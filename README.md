@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```visualstudio
+```c#
 private void Form1_Shown(object sender, EventArgs e)
 		{
 			string hex = "#03A9F4";
