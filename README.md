@@ -8,12 +8,15 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
+```visualstudio
+private void Form1_Shown(object sender, EventArgs e)
+		{
+			string hex = "#03A9F4";
+			Color _color = System.Drawing.ColorTranslator.FromHtml(hex);
+
+			this.FormElement.TitleBar.TitleBarFill.BackColor = _color;
+			this.FormElement.TitleBar.TitleBarFill.GradientStyle = Telerik.WinControls.GradientStyles.Solid;
+		}
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
